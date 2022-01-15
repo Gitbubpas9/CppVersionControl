@@ -23,5 +23,8 @@
     <ClInclude Include="feature.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="NewB.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
