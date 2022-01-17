@@ -1,5 +1,5 @@
 #include <iostream>
 int main()
-{
-	std::cout << "main function\n\n";
+{   //printing some text
+	std::cout << "Welcome !\n\n";
 }
